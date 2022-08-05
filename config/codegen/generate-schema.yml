@@ -1,0 +1,11 @@
+# TODO: omit Maybe from this file
+overwrite: true
+generates:
+  ./src/lib/utilities/types/index.ts:
+    config:
+      avoidOptionals: true
+      maybeValue: T
+    plugins:
+      - add:
+          content: /* eslint-disable max-len */
+      - typescript

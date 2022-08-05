@@ -1,0 +1,81 @@
+{
+  "list": {
+    "name": "Exnance",
+    "organization": "Exnance",
+    "colors": [
+      {
+        "name": "Primary",
+        "colors": [
+          {
+            "name": "BackgroundColor",
+            "value": "#1f262e"
+          },
+          {
+            "name": "White",
+            "value": "#ffffff"
+          },
+          {
+            "name": "Black",
+            "value": "#000000"
+          },
+          {
+            "name": "Error",
+            "value": "#ff5e5e"
+          },
+          {
+            "name": "InputText",
+            "value": "#9597a6"
+          },
+          {
+            "name": "InputBackground",
+            "value": "#2f3941"
+          },
+          {
+            "name": "InputBorder",
+            "value": "#253039"
+          },
+          {
+            "name": "ButtonBackground",
+            "value": "#fcb62a"
+          },
+          {
+            "name": "ButtonBackground2",
+            "value": "#967735"
+          },
+          {
+            "name": "ButtonBackground3",
+            "value": "#44463E"
+          },
+          {
+            "name": "ButtonText",
+            "value": "#1f272f"
+          },
+          {
+            "name": "GrayedButtonText",
+            "value": "#9597a6"
+          },
+          {
+            "name": "GrayedButtonBackground",
+            "value": "#2f3941"
+          },
+          {
+            "name": "GrayedButtonHover",
+            "value": "#3f4951"
+          },
+          {
+            "name": "Sidebar",
+            "value": "#283747"
+          },
+          {
+            "name": "ToggleBackground",
+            "value": "#121820"
+          },
+          {
+            "name": "HeaderBackground",
+            "value": "#283747"
+          }
+        ]
+      }
+    ]
+  }
+}

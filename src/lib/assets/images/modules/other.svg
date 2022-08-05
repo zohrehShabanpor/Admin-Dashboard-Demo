@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29.426 29.426">
+  <g id="Other" transform="translate(-172 -636)">
+    <g id="bubble" transform="translate(172 636)">
+      <path id="Vector" d="M0,0H29.426V29.426H0Z" fill="none" opacity="0"/>
+      <path id="Vector-2" data-name="Vector" d="M0,0H29.426V29.426H0Z" fill="none" opacity="0"/>
+      <path id="Vector-3" data-name="Vector" d="M6.6,0a6.6,6.6,0,1,0,6.6,6.6A6.6,6.6,0,0,0,6.6,0Z" transform="translate(12.518 2.146)"/>
+      <path id="Vector-4" data-name="Vector" d="M4.083,0A4.083,4.083,0,1,0,8.166,4.083,4.089,4.089,0,0,0,4.083,0Z" transform="translate(3.715 15.976)"/>
+      <path id="Vector-5" data-name="Vector" d="M3.445,0A3.445,3.445,0,1,0,6.891,3.445,3.448,3.448,0,0,0,3.445,0Z" transform="translate(16.932 20.377)"/>
+    </g>
+  </g>
+</svg>

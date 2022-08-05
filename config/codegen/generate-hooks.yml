@@ -1,0 +1,21 @@
+# TODO: we should read urls from env variable, instead of hardcoding them.
+overwrite: true
+generates:
+  ./src/:
+    preset: near-operation-file
+    presetConfig:
+      extension: .ts
+      baseTypesPath: ./lib/utilities/types/index.ts
+    plugins:
+      - add:
+          # TODO: instead of disabling return types entirely, we should provide the correct return types manually.
+          content: /* eslint-disable max-len */ /* eslint-disable @typescript-eslint/explicit-function-return-type */
+      - typescript-operations
+      - typescript-react-query
+    config:
+      avoidOptionals: true
+      withHooks: true
+      fetcher: _/utilities#fetcher
+    hooks:
+      afterOneFileWrite:
+        - eslint --fix
